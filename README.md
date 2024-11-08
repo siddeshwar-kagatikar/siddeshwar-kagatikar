@@ -1,4 +1,4 @@
-### <div align="center">I'm Siddeshwar Kagatikar, a full-time full-stack freelance developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="center">I'm Siddeshwar Kagatikar 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
